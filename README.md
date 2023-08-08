@@ -5,3 +5,4 @@ En su primer PULL REQUEST Ingresar su nombre Completo a continuacion:
 
 
 En su segundo PULL REQUEST PONER EN ESTE ARCHIVO LA PALABRA LISTO SEGUIDO DE SU APELLIDO.
+LISTO.QUiROGA
